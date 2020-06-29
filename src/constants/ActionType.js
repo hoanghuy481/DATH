@@ -1,0 +1,10 @@
+export const CHANGE_NOTIFY 		= 'CHANGE_NOTIFY';
+export const HIDE_NOTIFY 		= 'HIDE_NOTIFY';
+export const USER_LOGIN 		= 'USER_LOGIN';
+export const USER_ISLOGIN 		= 'USER_ISLOGIN';
+export const USER_LOGOUT 		= 'USER_LOGOUT';
+export const GET_POST 		    = 'GET_POST';
+export const DETELE_POST 		= 'DETELE_POST';
+export const GET_PLAYLISTS 		= 'GET_PLAYLISTS';
+export const SEARCH_ARTIST 		= 'SEARCH_ARTIST';
+export const CHANGE_QUERY 		= 'CHANGE_QUERY';
