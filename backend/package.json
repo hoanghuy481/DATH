@@ -20,7 +20,7 @@
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.17.2",
     "cors": "^2.8.4",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "file-system": "^2.2.2",
     "formidable": "^1.2.2",
     "jsonwebtoken": "^7.4.2",
